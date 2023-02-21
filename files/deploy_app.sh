@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. ace The maximum session duration (in seconds) that you want to set for the specified role.
   <!-- END -->
 
   </div>
